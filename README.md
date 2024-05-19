@@ -1,25 +1,30 @@
-# Hi there, I'm <Rougab Ali> 👋
+# Hi there, I'm Rougab Ali 👋
+
+<img src="https://github.com/your-username/your-repo/raw/main/images/profile-pic.jpg" alt="Rougab Ali" width="200" />
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rougab-3778a7226/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alirou14)
+
+---
 
 Welcome to my GitHub profile!
 
 ## About Me
 
 - 🔭 I’m currently working on our mobile app  
-- 🌱 I’m currently learning how to build responsive apps using flutter
-- 💬 Ask me about flutter
-- 📫 How to reach me: [alirougab03@gmail.com]
-
+- 🌱 I’m currently learning how to build responsive apps using Flutter
+- 💬 Ask me about Flutter
+- 📫 How to reach me: [alirougab03@gmail.com](mailto:alirougab03@gmail.com)
 
 ## My Skills
 
-Fast learner
-
+- **Languages & Frameworks**: Flutter, Dart, Java, C++, C#
+- **Databases**: MySQL, Firebase, PostgreSQL
 
 ## Contact Me
 
-- discord: [kat2_](kat2_)
+- Discord: [kat2_](https://discord.com/users/kat2_)
 - [LinkedIn](https://www.linkedin.com/in/ali-rougab-3778a7226/)
-- [Twitter](https://x.com/alirou14) ps:i only post about palestine🇵🇸 on tiwtter<3
-
-
-
+- [Twitter](https://x.com/alirou14) *(I only post about Palestine 🇵🇸 on Twitter ❤️)*
