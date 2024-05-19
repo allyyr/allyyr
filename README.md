@@ -1,6 +1,6 @@
 # Hi there, I'm Rougab Ali 👋
 
-<img src="https://github.com/your-username/your-repo/raw/main/images/profile-pic.jpg" alt="Rougab Ali" width="200" />
+<img src="wallpaperflare.com_wallpaper.jpg />
 
 ---
 
