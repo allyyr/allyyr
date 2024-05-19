@@ -1,6 +1,6 @@
 # Hi there, I'm Rougab Ali 👋
 
-<img src="wallpaperflare.com_wallpaper.jpg />
+
 
 ---
 
