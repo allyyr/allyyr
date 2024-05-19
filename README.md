@@ -21,7 +21,5 @@ Fast learner
 - [LinkedIn](https://www.linkedin.com/in/ali-rougab-3778a7226/)
 - [Twitter](https://x.com/alirou14) ps:i only post about palestine🇵🇸 on tiwtter<3
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
+
 
