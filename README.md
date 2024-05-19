@@ -17,6 +17,6 @@ Fast learner
 
 ## Contact Me
 
-- [kat2_](kat2_)
+- [discord: kat2_](kat2_)
 - [LinkedIn](https://www.linkedin.com/in/ali-rougab-3778a7226/)
 - [Twitter](https://x.com/alirou14) ps:i only post about palestine🇵🇸 on tiwtter<3
