@@ -9,7 +9,6 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on our mobile app  
 - 🌱 I’m currently learning how to build responsive apps using Flutter
-- 💬 Ask me about Flutter
 - 📫 How to reach me: [alirougab03@gmail.com](mailto:alirougab03@gmail.com)
 
 ## My Skills
