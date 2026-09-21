@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-## About Me
+## About Me   
 
 I'm an AI & Data Science graduate interested in building machine learning systems that solve real-world problems. My work spans machine  learning, deep learning, predictive modeling, data analysis, and cloud-based applications, with a particular interest in applying AI to industrial and operational problems.
 
