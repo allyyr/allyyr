@@ -24,7 +24,7 @@ I also have a background in software and mobile development, which helps me appr
 
 - Machine Learning
 - Deep Learning
-- Predictive Modeling
+- Predictive Modeling 
 - Feature Engineering
 - Model Evaluation & Benchmarking
 - Hyperparameter Tuning
