@@ -1,7 +1,7 @@
 # Hi there, I'm Ali Rougab  👋
 
 --- 
-
+    
 Welcome to my GitHub profile!
        
 ## About Me   
