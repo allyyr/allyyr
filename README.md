@@ -51,7 +51,7 @@ I also have a background in software and mobile development, which helps me appr
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 - REST APIs
-- Cloud Functions
+- Cloud Functions        
 - Firestore
 - PostgreSQL
 - Flutter / Dart
