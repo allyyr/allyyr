@@ -54,7 +54,7 @@ I also have a background in software and mobile development, which helps me appr
 - Cloud Functions        
 - Firestore
 - PostgreSQL
-- Flutter / Dart
+- Flutter / Dart       
 - Application Architecture
 
 ### Languages & Frameworks
